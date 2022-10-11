@@ -97,4 +97,4 @@ X = np.random.randint(4, 6, size=(10,3))
 print(X)
 print('Unique rows: ',get_unique_rows(X))
 
-print('Hello')
+print('Hello', 'Privet')
